@@ -1,6 +1,6 @@
 # Rates-comparision
 Volatility comparision analysis of different rates.<br>
-daily_rates.ipynb: It contains the analysis results and their corresponding plots of different rates, including LIBOR and SOFR.<br>
+Daily_Rates.ipynb: It contains the analysis results and their corresponding plots of different rates, including LIBOR and SOFR.<br>
 summary.ipynb: It contains the summary statistics of aforementioned LIBOR and SOFR rates.<br>
 LIBOR_USD_2.xlsx: It contains original data of LIBOR rates.<br>
 SOFR Average Rates.xlsx: It contains original data of SOFR rates.<br>
