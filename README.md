@@ -10,4 +10,4 @@ Consulta_20210419-020651644.xlsx: It contains original data of TIIE rates.<br>
 Trend.ipynb: It contains python code for the trend analysis and plots of different rates. Replace the column names to get trend line of different rates in the code.<br>
 SONIA Converted.xlsx: It contains currency adjusted daily SONIA rate.<br>
 macro_analysis.xlsx: It contains data adjusted for analysis of macro variable dependencies.<br>
-macro_var_analysis.ipynb: It contains python code for analysis and plots of macro variable dependencies.<br>
+macro_variable_libor_analysis.ipynb: It contains python code for analysis and plots of macro variable dependencies with libor.<br>
