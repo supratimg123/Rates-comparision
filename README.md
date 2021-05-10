@@ -14,3 +14,4 @@ SONIA Converted.xlsx: It contains currency adjusted daily SONIA rate.<br>
 macro_analysis.xlsx: It contains data adjusted for analysis of macro variable dependencies.<br>
 macro_variable_libor_analysis.ipynb: It contains python code for analysis and plots of macro variable dependencies with libor.<br>
 macro_var_sofr_analysis.ipynb: It contains python code for analysis and plots of macro variable dependencies with sofr.<br>
+macro_analysis_sofr.xlsx: It contains data adjusted for analysis of macro variable dependencies with sofr.<br>
